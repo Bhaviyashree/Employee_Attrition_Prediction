@@ -17,7 +17,7 @@ dist/
 # Database files
 *.db
 *.sqlite3
-employee_attrition.db
+employee_attrition.db   
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
