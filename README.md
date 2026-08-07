@@ -12,13 +12,13 @@ A production-ready HR Analytics platform for predicting employee attrition using
 
 ## Features
 
-- **Interactive HR Dashboard** — KPI cards, Plotly charts, dark theme
-- **Attrition Prediction** — Form-based prediction with risk scoring and recommendations
-- **Analytics** — Department, salary, experience, promotion, and travel analysis
-- **Dataset Management** — CSV upload, validation, cleaning, and download
-- **Model Training** — Train and compare Random Forest vs XGBoost
-- **Prediction History** — Stored in PostgreSQL with Excel export
-- **REST API** — Full FastAPI backend with OpenAPI docs
+- **Interactive HR Dashboard** - KPI cards, Plotly charts, dark theme
+- **Attrition Prediction** - Form-based prediction with risk scoring and recommendations
+- **Analytics** - Department, salary, experience, promotion, and travel analysis
+- **Dataset Management** - CSV upload, validation, cleaning, and download
+- **Model Training** - Train and compare Random Forest vs XGBoost
+- **Prediction History** - Stored in PostgreSQL with Excel export
+- **REST API** - Full FastAPI backend with OpenAPI docs
 
 ---
 
