@@ -1,5 +1,7 @@
 # Employee Attrition Prediction Dashboard
 
+> **Changelog:** High-impact updates added (created now — 2026-08-07)
+
 A production-ready HR Analytics platform for predicting employee attrition using machine learning. Built with **Streamlit**, **FastAPI**, **PostgreSQL**, **Random Forest**, and **XGBoost**.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
